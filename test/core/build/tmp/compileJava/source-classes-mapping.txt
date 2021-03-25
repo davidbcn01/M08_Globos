@@ -1,0 +1,22 @@
+com/mygdx/game/BitmapFontScreen.java
+ com.mygdx.game.BitmapFontScreen
+com/mygdx/game/TimerScreen.java
+ com.mygdx.game.TimerScreen
+com/mygdx/game/InputScreen.java
+ com.mygdx.game.InputScreen
+com/mygdx/game/PantallaJuego.java
+ com.mygdx.game.PantallaJuego
+com/mygdx/game/BaseScreen.java
+ com.mygdx.game.BaseScreen
+com/mygdx/game/Globo.java
+ com.mygdx.game.Globo
+ com.mygdx.game.Globo$1
+ com.mygdx.game.Globo$Color
+com/mygdx/game/MyGdxGame.java
+ com.mygdx.game.MyGdxGame
+com/mygdx/game/PantallaInicial.java
+ com.mygdx.game.PantallaInicial
+ com.mygdx.game.PantallaInicial$1
+ com.mygdx.game.PantallaInicial$2
+com/mygdx/game/ObjectsScreen.java
+ com.mygdx.game.ObjectsScreen
